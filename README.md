@@ -24,7 +24,7 @@
 
 ## 🏅 Highlights
 
-- 📄 Research published in Springer on recommendation systems [🔗 Read the paper(https://link.springer.com/chapter/10.1007/978-981-97-8946-7_23)]
+- 📄 Research published in Springer on recommendation systems [🔗 Read the paper](https://link.springer.com/chapter/10.1007/978-981-97-8946-7_23)
 - 📈 Experience working with real-world hotel, finance & stock data
 - 🎓 Multiple certifications in AI, ML, Cloud, Marketing, and Analytics
 ---
