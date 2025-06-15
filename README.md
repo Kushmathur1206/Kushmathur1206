@@ -55,5 +55,5 @@
 
 ## 📫 Let's Connect
 
-- 📧 kushmathur1206@gmail.com  
+- 📧 kushm1206@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/kushmathur1206)
